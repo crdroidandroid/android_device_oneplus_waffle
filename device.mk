@@ -35,6 +35,7 @@ $(call soong_config_set,qtidisplay,pxlw_sm8650_vendor_namespace,vendor/oneplus/w
 $(call soong_config_set_bool,qtidisplay,pxlw_hw_iris7,true)
 
 # Fingerprint
+TARGET_HAS_UDFPS := true
 $(call soong_config_set_bool,qtidisplay,oplus_udfps,true)
 
 # Keymint
