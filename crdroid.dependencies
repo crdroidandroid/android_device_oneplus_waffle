@@ -1,0 +1,11 @@
+[
+  {
+    "repository": "crdroidandroid/android_device_oneplus_sm8650-common",
+    "target_path": "device/oneplus/sm8650-common"
+  },
+  {
+    "repository": "crdroidandroid/proprietary_vendor_oneplus_waffle",
+    "target_path": "vendor/oneplus/waffle",
+    "remote": "crdroid-gitlab"
+  }
+]
