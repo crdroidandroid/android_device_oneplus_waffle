@@ -23,6 +23,9 @@ TARGET_SCREEN_WIDTH := 1440
 
 # Display
 PRODUCT_PACKAGES += \
+    OplusLtpo
+
+PRODUCT_PACKAGES += \
     OplusMemc
 
 PRODUCT_COPY_FILES += \
